@@ -60,6 +60,6 @@ Trading:     EV modeling, Risk Management, Copy Trading, On-chain Analysis
 
 ## Contact
 
-- Telegram: @xx2310xx
+- Telegram: [@xx2310xx](https://t.me/masterpisem)
 - Platform: [masterpisem.ru/platforma](https://masterpisem.ru/platforma)
 - Weather Bot Site: [masterpisem.ru/weatherbot](https://masterpisem.ru/weatherbot)
